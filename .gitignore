@@ -1,0 +1,4 @@
+__pycache__/
+*.sqlite
+pairing-key.txt
+.env
